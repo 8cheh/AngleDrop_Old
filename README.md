@@ -71,4 +71,4 @@ AngleDrop_Old/
 
 ## 许可与联系
 
-历史版本存档，仅供教学使用。如欲使用代码，请先联系 huangbache@gmail.com。
+历史版本存档，仅供教学使用。如欲使用代码，请先联系 huangbache@outlook.com。
